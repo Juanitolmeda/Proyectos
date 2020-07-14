@@ -1,0 +1,28 @@
+body {
+    background-color: #002855;
+    margin: 0;
+}
+
+.titulo {
+    background-color: #F57EB6;
+    font-family: 'Fira Sans', sans-serif;
+    margin-bottom: 50px;
+}
+
+h1 {
+    /*Invictus Lego*/
+    font-size: 50px;
+    font-weight: normal;
+    color: #002855;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+h2 {
+    /*First Lego League Team*/
+    font-size: 20px;
+    font-weight: normal;
+    color: #002855;
+    text-align: center;
+    margin: 0px;
+}

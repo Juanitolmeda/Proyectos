@@ -1,0 +1,24 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.titulo{
+
+    overflow: auto;
+    background: rgb(5,28,44);
+    background: linear-gradient(0deg, rgba(5,28,44,1) 0%, rgba(33,107,158,1) 100%); 
+    color: white;
+    padding: 70px 0;
+    
+}
+
+.caja{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
