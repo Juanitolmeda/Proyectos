@@ -2,6 +2,7 @@ body {
   background: #002855;
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 .titulo {
@@ -21,8 +22,8 @@ body {
 } 
 
 .box .imgBx {
-  height: 407px;
-  width: 407px;
+  height: 475px;
+  width: 475px;
   flex: 0 0 0 150px;
 }
 
@@ -70,8 +71,8 @@ body {
 } 
 
 .box2 .imgBx2 {
-  height: 480px;
-  width: 480px;
+  height: 555px;
+  width: 555px;
   flex: 0 0 0 150px;
 }
 
@@ -119,13 +120,13 @@ body {
 } 
 
 .box3 .imgBx3 {
-  height: 406px;
-  width: 406px;
+  height: 475px;
+  width: 475px;
   flex: 0 0 0 150px;
 }
 
 .box3 .imgBx3 img {
-  max-width: 100%;
+  max-width: 85%;
 }
  
 .box3 .content3 {
@@ -186,7 +187,7 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #002855;
+  color: #002855
 }
 
 
